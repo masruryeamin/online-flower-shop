@@ -1,0 +1,37 @@
+/* header section start  */
+
+
+.header-container{
+    height: 850px;
+    background: rgba(229, 84, 115, 0.1);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.header-container>div{
+    width: 40%;
+    /* border: 2px solid red; */
+}
+
+#hd-lft-margin{
+    margin-bottom: 30px;
+}
+/* .header-right{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    border: 3px solid rgb(100, 12, 183);
+} */
+/* .header-right-img{
+    border: 2px solid rgb(0, 0, 0);
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+} */
+.header-right img{
+    height: 600px;
+    border: 2px dashed rgb(195, 190, 190);    
+    
+}
