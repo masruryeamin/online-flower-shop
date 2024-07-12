@@ -9,9 +9,9 @@
             text-align: left;}
         p{
             color: rgba(39, 39, 39, 0.6);
-        font-size: 28px;
+        font-size: 13px;
         font-weight: 400;
-        line-height: 30px;
+        line-height: 20px;
         letter-spacing: 0%;
         text-align: left;
         }
@@ -48,4 +48,5 @@
         top: 0px;
         margin-top: 5px;
     }
+    /* header done  */
 }
